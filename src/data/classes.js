@@ -11,6 +11,7 @@ export default {
       lt.sanctuary,
       lt.shrine,
       lt.fortPastous,
+      lt.isleOfLennu,
     ],
   },
   swordsman: {
@@ -88,6 +89,7 @@ export default {
       lt.plains,
       lt.highlands,
       lt.fortPastous,
+      lt.isleOfSeymour
     ],
   },
   bishop: {
@@ -98,6 +100,9 @@ export default {
       lt.sanctuary,
       lt.shrine,
       lt.hiddenTreasury,
+      lt.isleOfLennu,
+      lt.isleOfMartha,
+      lt.manaSpring,
     ],
   },
   templeKnight: {
@@ -112,6 +117,7 @@ export default {
   archer: {
     name: 'Archer',
     questBonus: [
+      lt.valley,
       lt.forest,
       lt.jungle,
       lt.woodland,
@@ -122,6 +128,7 @@ export default {
   minstrel: {
     name: 'Minstrel',
     questBonus: [
+      lt.valley,
       lt.forest,
       lt.jungle,
       lt.woodland,
